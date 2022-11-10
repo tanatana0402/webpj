@@ -6,6 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+### `create .env file`
+
+REACT_APP_API_KEY=AIzaSyD0IUR3-6cbzXphYBetW3I-qZGFlch2tb4
+
+REACT_APP_AUTH_DOMAIN=neon-partition-367915.firebaseapp.com
+
+REACT_APP_DATABASE_URL=https://neon-partition-367915-default-rtdb.firebaseio.com
+
+REACT_APP_PROJECT_ID=neon-partition-367915
+
+REACT_APP_STORAGE_BUCKET=neon-partition-367915.appspot.com
+
+REACT_APP_MESSAGIN_ID=640679417234
+
+REACT_APP_APP_ID=1:640679417234:web:c8a37de8fec35898d7dd4b
+
 ### `npm start`
 
 Runs the app in the development mode.\
